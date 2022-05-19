@@ -1,4 +1,5 @@
-# leetcode
+# Leetcode Progress
+
 Here I store my solutions for leetcode questions that I can refer to in the future
 
 ## Array
@@ -13,6 +14,12 @@ Here I store my solutions for leetcode questions that I can refer to in the futu
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+
+---
+
+## Stack
+
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ---
 
@@ -101,6 +108,7 @@ Here I store my solutions for leetcode questions that I can refer to in the futu
 ---
 
 ## Tree
+
 - [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
 - [ ] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
