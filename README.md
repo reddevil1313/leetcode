@@ -109,6 +109,7 @@ Here I store my solutions for leetcode questions that I can refer to in the futu
 
 ## Tree
 
+- [x] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 - [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
 - [x] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
