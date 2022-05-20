@@ -23,6 +23,12 @@ Here I store my solutions for leetcode questions that I can refer to in the futu
 
 ---
 
+## Binary Search
+
+- [x] [Binary Search](https://leetcode.com/problems/binary-search/)
+
+---
+
 ## Binary
 
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
