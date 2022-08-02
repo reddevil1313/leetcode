@@ -34,7 +34,7 @@ Here I store my solutions for leetcode questions that I can refer to in the futu
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
-- [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
+- [x] [Missing Number](https://leetcode.com/problems/missing-number/)
 - [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
 ---
@@ -50,7 +50,7 @@ Here I store my solutions for leetcode questions that I can refer to in the futu
 - [ ] [House Robber](https://leetcode.com/problems/house-robber/)
 - [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
-- [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- [x] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
 
 ---
@@ -81,7 +81,7 @@ Here I store my solutions for leetcode questions that I can refer to in the futu
 ## Linked List
 
 - [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
+- [x] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
@@ -92,7 +92,7 @@ Here I store my solutions for leetcode questions that I can refer to in the futu
 ## Matrix
 
 - [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-- [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [ ] [Word Search](https://leetcode.com/problems/word-search/)
 

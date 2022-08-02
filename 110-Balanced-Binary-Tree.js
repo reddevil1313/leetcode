@@ -1,4 +1,4 @@
-//Learning: Need to calculate the depth for each subtree and also checm if they are balanced individually
+//Learning: Need to calculate the depth for each subtree and also check if they are balanced individually
 
 /**
  * Definition for a binary tree node.
