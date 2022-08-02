@@ -2,7 +2,9 @@
 
 Here I store my solutions for leetcode questions that I can refer to in the future
 
-## Array
+## My Leetcode Checklist for understanding DS and Algos
+
+### Array
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
@@ -17,19 +19,19 @@ Here I store my solutions for leetcode questions that I can refer to in the futu
 
 ---
 
-## Stack
+### Stack
 
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ---
 
-## Binary Search
+### Binary Search
 
 - [x] [Binary Search](https://leetcode.com/problems/binary-search/)
 
 ---
 
-## Binary
+### Binary
 
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
@@ -39,7 +41,7 @@ Here I store my solutions for leetcode questions that I can refer to in the futu
 
 ---
 
-## Dynamic Programming
+### Dynamic Programming
 
 - [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
@@ -55,7 +57,7 @@ Here I store my solutions for leetcode questions that I can refer to in the futu
 
 ---
 
-## Graph
+### Graph
 
 - [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/)
 - [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
@@ -68,7 +70,7 @@ Here I store my solutions for leetcode questions that I can refer to in the futu
 
 ---
 
-## Interval
+### Interval
 
 - [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
@@ -78,7 +80,7 @@ Here I store my solutions for leetcode questions that I can refer to in the futu
 
 ---
 
-## Linked List
+### Linked List
 
 - [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [x] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
@@ -89,7 +91,7 @@ Here I store my solutions for leetcode questions that I can refer to in the futu
 
 ---
 
-## Matrix
+### Matrix
 
 - [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -98,7 +100,7 @@ Here I store my solutions for leetcode questions that I can refer to in the futu
 
 ---
 
-## String
+### String
 
 - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
@@ -113,7 +115,7 @@ Here I store my solutions for leetcode questions that I can refer to in the futu
 
 ---
 
-## Tree
+### Tree
 
 - [x] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 - [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
@@ -133,7 +135,7 @@ Here I store my solutions for leetcode questions that I can refer to in the futu
 
 ---
 
-## Heap
+### Heap
 
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
